@@ -83,8 +83,8 @@
 
 ###
 
-<div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/languages-output/languages.svg?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioOrtega32&layout=compact&theme=dark&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 ###
