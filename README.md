@@ -72,6 +72,12 @@
 
 ###
 
+<br clear="both">
+
+<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif"  />
+
+###
+
 <div data-importer="socials" align="left">
   <a href="https://www.linkedin.com/in/antonioortega317" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
@@ -80,25 +86,5 @@
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AntonioOrtega32&layout=compact&theme=dark&hide_border=false" height="150" alt="languages graph" />
-</div>
-
-###
-
-<br clear="both">
-
-<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif"  />
-
-###
-
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
 ###
