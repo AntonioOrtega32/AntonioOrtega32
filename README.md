@@ -83,21 +83,22 @@
 
 ###
 
-<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif"  />
-
-###
-
 <div data-importer="stats" align="left">
-  <img src="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/stats-output/stats.svg?hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=es&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/languages-output/languages.svg?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/languages-output/languages.svg?locale=es&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
 ###
 
+<br clear="both">
+
+<img data-importer="image" align="right" height="150" src="https://media1.tenor.com/m/NwY5ppxLs_oAAAAd/kitten-keybo.gif"  />
+
+###
+
 <picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/pacman-output/breakout-contribution-graph-dark.svg?game=breakout">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/pacman-output/breakout-contribution-graph.svg?game=breakout">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/pacman-output/breakout-contribution-graph.svg?game=breakout">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/AntonioOrtega32/AntonioOrtega32/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
 ###
